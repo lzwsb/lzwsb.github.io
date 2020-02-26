@@ -3,36 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://lzwsb.github.io/</loc>
+    <loc>https://lzwsb.gihub.io/</loc>
+    <lastmod>2020-02-26T22:11:26+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lzwsb.gihub.io/post/</loc>
+    <lastmod>2020-02-26T22:11:26+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lzwsb.gihub.io/post/%E7%8E%8B%E4%B8%80%E5%BD%A4%E7%9A%84%E5%9B%9B%E8%8A%82%E8%82%A0%E5%AD%90/</loc>
+    <lastmod>2020-02-26T22:11:26+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lzwsb.gihub.io/post/%E8%80%81%E7%8E%8B%E5%B0%BF%E8%A3%A4%E5%AD%90/</loc>
     <lastmod>2020-02-26T20:02:38+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lzwsb.github.io/post/</loc>
-    <lastmod>2020-02-26T20:02:38+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lzwsb.github.io/post/%E8%80%81%E7%8E%8B%E5%B0%BF%E8%A3%A4%E5%AD%90/</loc>
-    <lastmod>2020-02-26T20:02:38+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lzwsb.github.io/post/dxn/</loc>
+    <loc>https://lzwsb.gihub.io/post/dxn/</loc>
     <lastmod>2020-02-25T23:32:46+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lzwsb.github.io/post/blog/</loc>
+    <loc>https://lzwsb.gihub.io/post/blog/</loc>
     <lastmod>2020-02-25T21:18:32+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lzwsb.github.io/categories/</loc>
+    <loc>https://lzwsb.gihub.io/categories/</loc>
   </url>
   
   <url>
-    <loc>https://lzwsb.github.io/tags/</loc>
+    <loc>https://lzwsb.gihub.io/tags/</loc>
   </url>
   
 </urlset>
